@@ -1,0 +1,9 @@
+Date,Advertiser,Advertiser ID,Advertiser Status,Advertiser Integration Code,Insertion Order,Insertion Order ID,Insertion Order Status,Insertion Order Integration Code,Line Item,Line Item ID,Line Item Status,Line Item Integration Code,Targeted Data Providers,Impressions,Clicks,Click Rate (CTR),Total Conversions
+
+No data returned by the reporting service.
+Report Time:,2016/06/07 18:15 GMT
+Date Range:,2016/06/06 to 2016/06/06
+Group By:,Date
+Group By:,Advertiser
+Group By:,Insertion Order
+Group By:,Line Item

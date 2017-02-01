@@ -1,0 +1,14 @@
+Date,Advertiser,Advertiser ID,Advertiser Status,Advertiser Integration Code,Insertion Order,Insertion Order ID,Insertion Order Status,Insertion Order Integration Code,Line Item,Line Item ID,Line Item Status,Line Item Integration Code,Targeted Data Providers,Advertiser Currency,Impressions,Billable Impressions,Clicks,Total Conversions,Post-Click Conversions,Post-View Conversions,Revenue (Adv Currency),Media Cost (Advertiser Currency),Click Rate (CTR)
+
+No data returned by the reporting service.
+Report Time:,2016/04/13 07:46 GMT
+Date Range:,2016/04/06 to 2016/04/12
+Group By:,Date
+Group By:,Advertiser
+Group By:,Insertion Order
+Group By:,Line Item
+Group By:,Advertiser Currency
+Filter by Advertiser:,1045036
+Filter by Insertion Order:,2256799
+Filter by Line Item:,6601872
+Filter by Partner:,610940

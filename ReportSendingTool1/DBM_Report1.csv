@@ -1,0 +1,14 @@
+Date,Advertiser,Advertiser ID,Advertiser Status,Advertiser Integration Code,Insertion Order,Insertion Order ID,Insertion Order Status,Insertion Order Integration Code,Line Item,Line Item ID,Line Item Status,Line Item Integration Code,Targeted Data Providers,Advertiser Currency,City,City ID,Country,Device Type,Operating System,Impressions,Clicks,Click Rate (CTR),Media Cost (USD),Revenue (USD),DCM Post-View Revenue,Total Conversions
+
+No data returned by the reporting service.
+Report Time:,2016/06/07 17:44 GMT
+Date Range:,2016/06/06 to 2016/06/06
+Group By:,Date
+Group By:,Advertiser
+Group By:,Insertion Order
+Group By:,Line Item
+Group By:,Advertiser Currency
+Group By:,City
+Group By:,Country
+Group By:,Device Type
+Group By:,Operating System
